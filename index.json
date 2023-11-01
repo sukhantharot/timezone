@@ -1,0 +1,2928 @@
+[
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "identifier": "Asia/Kabul",
+    "utc": "UTC +04:30",
+    "value": 430
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "identifier": "Europe/Tirane",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "identifier": "Africa/Algiers",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "AS",
+    "name": "American Samoa",
+    "identifier": "Pacific/Pago_Pago",
+    "utc": "UTC -11:00",
+    "value": -1100
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "identifier": "Europe/Andorra",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "identifier": "Africa/Luanda",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "AI",
+    "name": "Anguilla",
+    "identifier": "America/Anguilla",
+    "utc": "UTC -04:00",
+    "value": -400
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Casey",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Davis",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/DumontDUrville",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Mawson",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/McMurdo",
+    "utc": "UTC +13:00",
+    "value": 1300
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Palmer",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Rothera",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Syowa",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Troll",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "AQ",
+    "name": "Antarctica",
+    "identifier": "Antarctica/Vostok",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "AG",
+    "name": "Antigua and Barbuda",
+    "identifier": "America/Antigua",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Buenos_Aires",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Catamarca",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Cordoba",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Jujuy",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/La_Rioja",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Mendoza",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Rio_Gallegos",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Salta",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/San_Juan",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/San_Luis",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Tucuman",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "identifier": "America/Argentina/Ushuaia",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "AM",
+    "name": "Armenia",
+    "identifier": "Asia/Yerevan",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "AW",
+    "name": "Aruba",
+    "identifier": "America/Aruba",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Antarctica/Macquarie",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Adelaide",
+    "utc": "UTC +10:30",
+    "value": 1030
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Brisbane",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Broken_Hill",
+    "utc": "UTC +10:30",
+    "value": 1030
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Darwin",
+    "utc": "UTC +09:30",
+    "value": 930
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Eucla",
+    "utc": "UTC +08:45",
+    "value": 845
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Hobart",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Lindeman",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Lord_Howe",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Melbourne",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Perth",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "identifier": "Australia/Sydney",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "identifier": "Europe/Vienna",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "AZ",
+    "name": "Azerbaijan",
+    "identifier": "Asia/Baku",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "identifier": "America/Nassau",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BH",
+    "name": "Bahrain",
+    "identifier": "Asia/Bahrain",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "identifier": "Asia/Dhaka",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "identifier": "America/Barbados",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BY",
+    "name": "Belarus",
+    "identifier": "Europe/Minsk",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "identifier": "Europe/Brussels",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "BZ",
+    "name": "Belize",
+    "identifier": "America/Belize",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "BJ",
+    "name": "Benin",
+    "identifier": "Africa/Porto-Novo",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "BM",
+    "name": "Bermuda",
+    "identifier": "Atlantic/Bermuda",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BT",
+    "name": "Bhutan",
+    "identifier": "Asia/Thimphu",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia, Plurinational State of",
+    "identifier": "America/La_Paz",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BQ",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "identifier": "America/Kralendijk",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "identifier": "Europe/Sarajevo",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "identifier": "Africa/Gaborone",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Araguaina",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Bahia",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Belem",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Boa_Vista",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Campo_Grande",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Cuiaba",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Eirunepe",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Fortaleza",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Maceio",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Manaus",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Noronha",
+    "utc": "UTC -02:00",
+    "value": 200
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Porto_Velho",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Recife",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Rio_Branco",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Santarem",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "identifier": "America/Sao_Paulo",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "IO",
+    "name": "British Indian Ocean Territory",
+    "identifier": "Indian/Chagos",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "BN",
+    "name": "Brunei Darussalam",
+    "identifier": "Asia/Brunei",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "identifier": "Europe/Sofia",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "BF",
+    "name": "Burkina Faso",
+    "identifier": "Africa/Ouagadougou",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "BI",
+    "name": "Burundi",
+    "identifier": "Africa/Bujumbura",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "identifier": "Asia/Phnom_Penh",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "identifier": "Africa/Douala",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Atikokan",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Blanc-Sablon",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Cambridge_Bay",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Creston",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Dawson",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Dawson_Creek",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Edmonton",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Fort_Nelson",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Glace_Bay",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Goose_Bay",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Halifax",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Inuvik",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Iqaluit",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Moncton",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Rankin_Inlet",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Regina",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Resolute",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/St_Johns",
+    "utc": "UTC -02:30",
+    "value": 230
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Swift_Current",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Toronto",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Vancouver",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Whitehorse",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "identifier": "America/Winnipeg",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "CV",
+    "name": "Cape Verde",
+    "identifier": "Atlantic/Cape_Verde",
+    "utc": "UTC -01:00",
+    "value": 100
+  },
+  {
+    "code": "KY",
+    "name": "Cayman Islands",
+    "identifier": "America/Cayman",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "CF",
+    "name": "Central African Republic",
+    "identifier": "Africa/Bangui",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "TD",
+    "name": "Chad",
+    "identifier": "Africa/Ndjamena",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "identifier": "America/Punta_Arenas",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "identifier": "America/Santiago",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "identifier": "Pacific/Easter",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "identifier": "Asia/Shanghai",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "identifier": "Asia/Urumqi",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "CX",
+    "name": "Christmas Island",
+    "identifier": "Indian/Christmas",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "CC",
+    "name": "Cocos (Keeling) Islands",
+    "identifier": "Indian/Cocos",
+    "utc": "UTC +06:30",
+    "value": 630
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "identifier": "America/Bogota",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "KM",
+    "name": "Comoros",
+    "identifier": "Indian/Comoro",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "CG",
+    "name": "Congo",
+    "identifier": "Africa/Brazzaville",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "CD",
+    "name": "Congo, the Democratic Republic of the",
+    "identifier": "Africa/Kinshasa",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "CD",
+    "name": "Congo, the Democratic Republic of the",
+    "identifier": "Africa/Lubumbashi",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "CK",
+    "name": "Cook Islands",
+    "identifier": "Pacific/Rarotonga",
+    "utc": "UTC -10:00",
+    "value": -1000
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "identifier": "America/Costa_Rica",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "identifier": "Europe/Zagreb",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "identifier": "America/Havana",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "CW",
+    "name": "Curaçao",
+    "identifier": "America/Curacao",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "identifier": "Asia/Famagusta",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "CY",
+    "name": "Cyprus",
+    "identifier": "Asia/Nicosia",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "CZ",
+    "name": "Czech Republic",
+    "identifier": "Europe/Prague",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "CI",
+    "name": "Côte d' Ivoire",
+    "identifier": "Africa/Abidjan",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "identifier": "Europe/Copenhagen",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "DJ",
+    "name": "Djibouti",
+    "identifier": "Africa/Djibouti",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "DM",
+    "name": "Dominica",
+    "identifier": "America/Dominica",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "identifier": "America/Santo_Domingo",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "identifier": "America/Guayaquil",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "identifier": "Pacific/Galapagos",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "identifier": "Africa/Cairo",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "SV",
+    "name": "El Salvador",
+    "identifier": "America/El_Salvador",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "GQ",
+    "name": "Equatorial Guinea",
+    "identifier": "Africa/Malabo",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "ER",
+    "name": "Eritrea",
+    "identifier": "Africa/Asmara",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "identifier": "Europe/Tallinn",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "identifier": "Africa/Addis_Ababa",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "FK",
+    "name": "Falkland Islands (Malvinas)",
+    "identifier": "Atlantic/Stanley",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "FO",
+    "name": "Faroe Islands",
+    "identifier": "Atlantic/Faroe",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "identifier": "Pacific/Fiji",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "identifier": "Europe/Helsinki",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "identifier": "Europe/Paris",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "GF",
+    "name": "French Guiana",
+    "identifier": "America/Cayenne",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "identifier": "Pacific/Gambier",
+    "utc": "UTC -09:00",
+    "value": 900
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "identifier": "Pacific/Marquesas",
+    "utc": "UTC -09:30",
+    "value": 930
+  },
+  {
+    "code": "PF",
+    "name": "French Polynesia",
+    "identifier": "Pacific/Tahiti",
+    "utc": "UTC -10:00",
+    "value": -1000
+  },
+  {
+    "code": "TF",
+    "name": "French Southern Territories",
+    "identifier": "Indian/Kerguelen",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "GA",
+    "name": "Gabon",
+    "identifier": "Africa/Libreville",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "GM",
+    "name": "Gambia",
+    "identifier": "Africa/Banjul",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "GE",
+    "name": "Georgia",
+    "identifier": "Asia/Tbilisi",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "identifier": "Europe/Berlin",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "identifier": "Europe/Busingen",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "identifier": "Africa/Accra",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "GI",
+    "name": "Gibraltar",
+    "identifier": "Europe/Gibraltar",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "identifier": "Europe/Athens",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "identifier": "America/Danmarkshavn",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "identifier": "America/Nuuk",
+    "utc": "UTC -02:00",
+    "value": 200
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "identifier": "America/Scoresbysund",
+    "utc": "UTC -01:00",
+    "value": 100
+  },
+  {
+    "code": "GL",
+    "name": "Greenland",
+    "identifier": "America/Thule",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "GD",
+    "name": "Grenada",
+    "identifier": "America/Grenada",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "GP",
+    "name": "Guadeloupe",
+    "identifier": "America/Guadeloupe",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "GU",
+    "name": "Guam",
+    "identifier": "Pacific/Guam",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "identifier": "America/Guatemala",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "GG",
+    "name": "Guernsey",
+    "identifier": "Europe/Guernsey",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "GN",
+    "name": "Guinea",
+    "identifier": "Africa/Conakry",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "GW",
+    "name": "Guinea-Bissau",
+    "identifier": "Africa/Bissau",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "identifier": "America/Guyana",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "identifier": "America/Port-au-Prince",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "VA",
+    "name": "Holy See (Vatican City State)",
+    "identifier": "Europe/Vatican",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "HN",
+    "name": "Honduras",
+    "identifier": "America/Tegucigalpa",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "HK",
+    "name": "Hong Kong",
+    "identifier": "Asia/Hong_Kong",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "identifier": "Europe/Budapest",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "identifier": "Atlantic/Reykjavik",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "identifier": "Asia/Kolkata",
+    "utc": "UTC +05:30",
+    "value": 530
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "identifier": "Asia/Jakarta",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "identifier": "Asia/Jayapura",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "identifier": "Asia/Makassar",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "identifier": "Asia/Pontianak",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "IR",
+    "name": "Iran, Islamic Republic of",
+    "identifier": "Asia/Tehran",
+    "utc": "UTC +03:30",
+    "value": 330
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "identifier": "Asia/Baghdad",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "identifier": "Europe/Dublin",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "IM",
+    "name": "Isle of Man",
+    "identifier": "Europe/Isle_of_Man",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "identifier": "Asia/Jerusalem",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "identifier": "Europe/Rome",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "identifier": "America/Jamaica",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "identifier": "Asia/Tokyo",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "JE",
+    "name": "Jersey",
+    "identifier": "Europe/Jersey",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "identifier": "Asia/Amman",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "identifier": "Asia/Almaty",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "identifier": "Asia/Aqtau",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "identifier": "Asia/Aqtobe",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "identifier": "Asia/Atyrau",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "identifier": "Asia/Oral",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "identifier": "Asia/Qostanay",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "KZ",
+    "name": "Kazakhstan",
+    "identifier": "Asia/Qyzylorda",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "identifier": "Africa/Nairobi",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "identifier": "Pacific/Kanton",
+    "utc": "UTC +13:00",
+    "value": 1300
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "identifier": "Pacific/Kiritimati",
+    "utc": "UTC +14:00",
+    "value": 1400
+  },
+  {
+    "code": "KI",
+    "name": "Kiribati",
+    "identifier": "Pacific/Tarawa",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "KP",
+    "name": "Korea, Democratic People's Republic of ",
+    "identifier": "Asia/Pyongyang",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "KR",
+    "name": "Korea, Republic of",
+    "identifier": "Asia/Seoul",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "identifier": "Asia/Kuwait",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "KG",
+    "name": "Kyrgyzstan",
+    "identifier": "Asia/Bishkek",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "LA",
+    "name": "Lao People's Democratic Republic",
+    "identifier": "Asia/Vientiane",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "identifier": "Europe/Riga",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "identifier": "Asia/Beirut",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "LS",
+    "name": "Lesotho",
+    "identifier": "Africa/Maseru",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "LR",
+    "name": "Liberia",
+    "identifier": "Africa/Monrovia",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "LY",
+    "name": "Libya",
+    "identifier": "Africa/Tripoli",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "LI",
+    "name": "Liechtenstein",
+    "identifier": "Europe/Vaduz",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "identifier": "Europe/Vilnius",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "identifier": "Europe/Luxembourg",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "MO",
+    "name": "Macao",
+    "identifier": "Asia/Macau",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "MK",
+    "name": "Macedonia, the Former Yugoslav Republic of",
+    "identifier": "Europe/Skopje",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "identifier": "Indian/Antananarivo",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "MW",
+    "name": "Malawi",
+    "identifier": "Africa/Blantyre",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "identifier": "Asia/Kuala_Lumpur",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "identifier": "Asia/Kuching",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "MV",
+    "name": "Maldives",
+    "identifier": "Indian/Maldives",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "ML",
+    "name": "Mali",
+    "identifier": "Africa/Bamako",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "MT",
+    "name": "Malta",
+    "identifier": "Europe/Malta",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "identifier": "Pacific/Kwajalein",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "MH",
+    "name": "Marshall Islands",
+    "identifier": "Pacific/Majuro",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "MQ",
+    "name": "Martinique",
+    "identifier": "America/Martinique",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "MR",
+    "name": "Mauritania",
+    "identifier": "Africa/Nouakchott",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "MU",
+    "name": "Mauritius",
+    "identifier": "Indian/Mauritius",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "YT",
+    "name": "Mayotte",
+    "identifier": "Indian/Mayotte",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Bahia_Banderas",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Cancun",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Chihuahua",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Ciudad_Juarez",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Hermosillo",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Matamoros",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Mazatlan",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Merida",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Mexico_City",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Monterrey",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Ojinaga",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "identifier": "America/Tijuana",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia, Federated States of",
+    "identifier": "Pacific/Chuuk",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia, Federated States of",
+    "identifier": "Pacific/Kosrae",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "FM",
+    "name": "Micronesia, Federated States of",
+    "identifier": "Pacific/Pohnpei",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "MD",
+    "name": "Moldova, Republic of",
+    "identifier": "Europe/Chisinau",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "identifier": "Europe/Monaco",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "identifier": "Asia/Choibalsan",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "identifier": "Asia/Hovd",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "MN",
+    "name": "Mongolia",
+    "identifier": "Asia/Ulaanbaatar",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "identifier": "Europe/Podgorica",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "MS",
+    "name": "Montserrat",
+    "identifier": "America/Montserrat",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "identifier": "Africa/Casablanca",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "identifier": "Africa/El_Aaiun",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "identifier": "Africa/Maputo",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "identifier": "Asia/Yangon",
+    "utc": "UTC +06:30",
+    "value": 630
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "identifier": "Africa/Windhoek",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "NR",
+    "name": "Nauru",
+    "identifier": "Pacific/Nauru",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "identifier": "Asia/Kathmandu",
+    "utc": "UTC +05:45",
+    "value": 545
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "identifier": "Europe/Amsterdam",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "NC",
+    "name": "New Caledonia",
+    "identifier": "Pacific/Noumea",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "identifier": "Pacific/Auckland",
+    "utc": "UTC +13:00",
+    "value": 1300
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "identifier": "Pacific/Chatham",
+    "utc": "UTC +13:45",
+    "value": 1345
+  },
+  {
+    "code": "NI",
+    "name": "Nicaragua",
+    "identifier": "America/Managua",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "NE",
+    "name": "Niger",
+    "identifier": "Africa/Niamey",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "identifier": "Africa/Lagos",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "NU",
+    "name": "Niue",
+    "identifier": "Pacific/Niue",
+    "utc": "UTC -11:00",
+    "value": -1100
+  },
+  {
+    "code": "NF",
+    "name": "Norfolk Island",
+    "identifier": "Pacific/Norfolk",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "MP",
+    "name": "Northern Mariana Islands",
+    "identifier": "Pacific/Saipan",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "identifier": "Europe/Oslo",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "identifier": "Asia/Muscat",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "identifier": "Asia/Karachi",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "PW",
+    "name": "Palau",
+    "identifier": "Pacific/Palau",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "PS",
+    "name": "Palestine, State of",
+    "identifier": "Asia/Gaza",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "PS",
+    "name": "Palestine, State of",
+    "identifier": "Asia/Hebron",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "identifier": "America/Panama",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "identifier": "Pacific/Bougainville",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "PG",
+    "name": "Papua New Guinea",
+    "identifier": "Pacific/Port_Moresby",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "identifier": "America/Asuncion",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "identifier": "America/Lima",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "identifier": "Asia/Manila",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "PN",
+    "name": "Pitcairn",
+    "identifier": "Pacific/Pitcairn",
+    "utc": "UTC -08:00",
+    "value": 800
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "identifier": "Europe/Warsaw",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "identifier": "Atlantic/Azores",
+    "utc": "UTC -01:00",
+    "value": 100
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "identifier": "Atlantic/Madeira",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "identifier": "Europe/Lisbon",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "PR",
+    "name": "Puerto Rico",
+    "identifier": "America/Puerto_Rico",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "identifier": "Asia/Qatar",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "identifier": "Europe/Bucharest",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Anadyr",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Barnaul",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Chita",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Irkutsk",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Kamchatka",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Khandyga",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Krasnoyarsk",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Magadan",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Novokuznetsk",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Novosibirsk",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Omsk",
+    "utc": "UTC +06:00",
+    "value": 600
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Sakhalin",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Srednekolymsk",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Tomsk",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Ust-Nera",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Vladivostok",
+    "utc": "UTC +10:00",
+    "value": 1000
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Yakutsk",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Asia/Yekaterinburg",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Astrakhan",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Kaliningrad",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Kirov",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Moscow",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Samara",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Saratov",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Ulyanovsk",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "RU",
+    "name": "Russian Federation",
+    "identifier": "Europe/Volgograd",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "identifier": "Africa/Kigali",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "RE",
+    "name": "Réunion",
+    "identifier": "Indian/Reunion",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "BL",
+    "name": "Saint Barthélemy",
+    "identifier": "America/St_Barthelemy",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "SH",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "identifier": "Atlantic/St_Helena",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "KN",
+    "name": "Saint Kitts and Nevis",
+    "identifier": "America/St_Kitts",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "LC",
+    "name": "Saint Lucia",
+    "identifier": "America/St_Lucia",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "MF",
+    "name": "Saint Martin (French part)",
+    "identifier": "America/Marigot",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "PM",
+    "name": "Saint Pierre and Miquelon",
+    "identifier": "America/Miquelon",
+    "utc": "UTC -02:00",
+    "value": 200
+  },
+  {
+    "code": "VC",
+    "name": "Saint Vincent and the Grenadines",
+    "identifier": "America/St_Vincent",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "WS",
+    "name": "Samoa",
+    "identifier": "Pacific/Apia",
+    "utc": "UTC +13:00",
+    "value": 1300
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "identifier": "Europe/San_Marino",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "ST",
+    "name": "Sao Tome and Principe",
+    "identifier": "Africa/Sao_Tome",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "identifier": "Asia/Riyadh",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "identifier": "Africa/Dakar",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "identifier": "Europe/Belgrade",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "SC",
+    "name": "Seychelles",
+    "identifier": "Indian/Mahe",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "SL",
+    "name": "Sierra Leone",
+    "identifier": "Africa/Freetown",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "identifier": "Asia/Singapore",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "SX",
+    "name": "Sint Maarten (Dutch part)",
+    "identifier": "America/Lower_Princes",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "identifier": "Europe/Bratislava",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "identifier": "Europe/Ljubljana",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "SB",
+    "name": "Solomon Islands",
+    "identifier": "Pacific/Guadalcanal",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "SO",
+    "name": "Somalia",
+    "identifier": "Africa/Mogadishu",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "identifier": "Africa/Johannesburg",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "GS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "identifier": "Atlantic/South_Georgia",
+    "utc": "UTC -02:00",
+    "value": 200
+  },
+  {
+    "code": "SS",
+    "name": "South Sudan",
+    "identifier": "Africa/Juba",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "identifier": "Africa/Ceuta",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "identifier": "Atlantic/Canary",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "identifier": "Europe/Madrid",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "identifier": "Asia/Colombo",
+    "utc": "UTC +05:30",
+    "value": 530
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "identifier": "Africa/Khartoum",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "identifier": "America/Paramaribo",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "SJ",
+    "name": "Svalbard and Jan Mayen",
+    "identifier": "Arctic/Longyearbyen",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "SZ",
+    "name": "Swaziland",
+    "identifier": "Africa/Mbabane",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "identifier": "Europe/Stockholm",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "identifier": "Europe/Zurich",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "SY",
+    "name": "Syrian Arab Republic",
+    "identifier": "Asia/Damascus",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "TW",
+    "name": "Taiwan, Province of China",
+    "identifier": "Asia/Taipei",
+    "utc": "UTC +08:00",
+    "value": 800
+  },
+  {
+    "code": "TJ",
+    "name": "Tajikistan",
+    "identifier": "Asia/Dushanbe",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania, United Republic of",
+    "identifier": "Africa/Dar_es_Salaam",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "identifier": "Asia/Bangkok",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "TL",
+    "name": "Timor-Leste",
+    "identifier": "Asia/Dili",
+    "utc": "UTC +09:00",
+    "value": 900
+  },
+  {
+    "code": "TG",
+    "name": "Togo",
+    "identifier": "Africa/Lome",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "TK",
+    "name": "Tokelau",
+    "identifier": "Pacific/Fakaofo",
+    "utc": "UTC +13:00",
+    "value": 1300
+  },
+  {
+    "code": "TO",
+    "name": "Tonga",
+    "identifier": "Pacific/Tongatapu",
+    "utc": "UTC +13:00",
+    "value": 1300
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "identifier": "America/Port_of_Spain",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "identifier": "Africa/Tunis",
+    "utc": "UTC +01:00",
+    "value": 100
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "identifier": "Europe/Istanbul",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "TM",
+    "name": "Turkmenistan",
+    "identifier": "Asia/Ashgabat",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "TC",
+    "name": "Turks and Caicos Islands",
+    "identifier": "America/Grand_Turk",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "TV",
+    "name": "Tuvalu",
+    "identifier": "Pacific/Funafuti",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "identifier": "Africa/Kampala",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "identifier": "Europe/Kyiv",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "identifier": "Europe/Simferopol",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "identifier": "Asia/Dubai",
+    "utc": "UTC +04:00",
+    "value": 400
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "identifier": "Europe/London",
+    "utc": "UTC",
+    "value": 0
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Adak",
+    "utc": "UTC -09:00",
+    "value": 900
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Anchorage",
+    "utc": "UTC -08:00",
+    "value": 800
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Boise",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Chicago",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Denver",
+    "utc": "UTC -06:00",
+    "value": 600
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Detroit",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Indianapolis",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Knox",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Marengo",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Petersburg",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Tell_City",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Vevay",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Vincennes",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Indiana/Winamac",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Juneau",
+    "utc": "UTC -08:00",
+    "value": 800
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Kentucky/Louisville",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Kentucky/Monticello",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Los_Angeles",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Menominee",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Metlakatla",
+    "utc": "UTC -08:00",
+    "value": 800
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/New_York",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Nome",
+    "utc": "UTC -08:00",
+    "value": 800
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/North_Dakota/Beulah",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/North_Dakota/Center",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/North_Dakota/New_Salem",
+    "utc": "UTC -05:00",
+    "value": 500
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Phoenix",
+    "utc": "UTC -07:00",
+    "value": 700
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Sitka",
+    "utc": "UTC -08:00",
+    "value": 800
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "America/Yakutat",
+    "utc": "UTC -08:00",
+    "value": 800
+  },
+  {
+    "code": "US",
+    "name": "United States",
+    "identifier": "Pacific/Honolulu",
+    "utc": "UTC -10:00",
+    "value": -1000
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "identifier": "Pacific/Midway",
+    "utc": "UTC -11:00",
+    "value": -1100
+  },
+  {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands",
+    "identifier": "Pacific/Wake",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "identifier": "America/Montevideo",
+    "utc": "UTC -03:00",
+    "value": 300
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "identifier": "Asia/Samarkand",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "UZ",
+    "name": "Uzbekistan",
+    "identifier": "Asia/Tashkent",
+    "utc": "UTC +05:00",
+    "value": 500
+  },
+  {
+    "code": "VU",
+    "name": "Vanuatu",
+    "identifier": "Pacific/Efate",
+    "utc": "UTC +11:00",
+    "value": 1100
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela, Bolivarian Republic of",
+    "identifier": "America/Caracas",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "VN",
+    "name": "Viet Nam",
+    "identifier": "Asia/Ho_Chi_Minh",
+    "utc": "UTC +07:00",
+    "value": 700
+  },
+  {
+    "code": "VG",
+    "name": "Virgin Islands, British",
+    "identifier": "America/Tortola",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "VI",
+    "name": "Virgin Islands, U.S.",
+    "identifier": "America/St_Thomas",
+    "utc": "UTC -04:00",
+    "value": 400
+  },
+  {
+    "code": "WF",
+    "name": "Wallis and Futuna",
+    "identifier": "Pacific/Wallis",
+    "utc": "UTC +12:00",
+    "value": 1200
+  },
+  {
+    "code": "YE",
+    "name": "Yemen",
+    "identifier": "Asia/Aden",
+    "utc": "UTC +03:00",
+    "value": 300
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "identifier": "Africa/Lusaka",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "identifier": "Africa/Harare",
+    "utc": "UTC +02:00",
+    "value": 200
+  },
+  {
+    "code": "AX",
+    "name": "Åland Islands",
+    "identifier": "Europe/Mariehamn",
+    "utc": "UTC +02:00",
+    "value": 200
+  }
+]
